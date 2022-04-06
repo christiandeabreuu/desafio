@@ -41,6 +41,7 @@ public class DesafioJava02 {
 
             int numero = leitor.nextInt();
             leitor.nextLine();
+            
             if (numero == 0) {
                 System.exit(0);
             } else if (numero == 1) {
